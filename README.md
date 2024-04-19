@@ -118,7 +118,7 @@
 
 <p align="center">
 	<a>
-		<img align="center" src="https://github.com/GreenComfyTea/RE3-Damage-Numbers/assets/30152047/d087eb8d-0985-46cc-8b33-181811d542f3" />
+		<img align="center" src="https://github.com/GreenComfyTea/RE3-Damage-Numbers/assets/30152047/2be42c0f-93b4-48af-a3be-19765941253c" />
 	</a>
 </p>
 
