@@ -40,7 +40,7 @@
 		<img alt="REFramework Dependency" src="https://custom-icon-badges.demolab.com/badge/dependency-REFramework%20v1.5.4%2B-green?logo=package-dependencies" />
 	</a>
    	<a href="https://nexusmods.com/residentevil32020/mods/922">
-		<img alt="REFramework Direct2D Dependency" src="https://custom-icon-badges.demolab.com/badge/dependency-REFramework%20Direct2D%20v1.0.0%2B-yellow?logo=package-dependencies" />
+		<img alt="REFramework Direct2D Dependency" src="https://custom-icon-badges.demolab.com/badge/dependency-REFramework%20Direct2D%20v1.0.1%2B-yellow?logo=package-dependencies" />
 	</a>
 	<br>
 	<br>
@@ -130,11 +130,11 @@
 2. **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)** (v1.0.1+).
 
 # How to install:
-1. Install **[REFramework](https://nexusmods.com/residentevil32020/mods/882)**;
+1. Install **[REFramework](https://github.com/praydog/REFramework-nightly/releases)**;
 2. Install **[REFramework Direct2D](https://nexusmods.com/residentevil32020/mods/922)**;
 >**:pushpin: Windows:** Works normally.
 
->**:pushpin: Linux:** Latest Experimental Proton seems to have it working normally as well ([https://github.com/cursey/reframework-d2d/issues/5](https://github.com/cursey/reframework-d2d/issues/5)**).
+>**:pushpin: Linux:** Latest Experimental Proton seems to have it working normally as well (**https://github.com/cursey/reframework-d2d/issues/5**).
 
 >**:pushpin: Steam Deck:** I've seen people getting it working but I don't have the exact instructions. You will have to figure it out yourself and/or search the nexus pages for information (**[REFramework](https://nexusmods.com/residentevil32020/mods/882)**, **[REFramework Direct2D](https://nexusmods.com/monsterhunterrise/mods/134)**).
 3. Download the mod:
